@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+  font-family: 'Public Sans', sans-serif;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+.container{
+  width: 500px;
+  height: 700px;
+  margin: auto;
+  margin-left: auto;
+ 
+}
+.phone{
+  width: inherit;
+  height: inherit;
+  border: 2px solid;
+  border-radius: 10px;
+}
+
+.window{
+  width: 470px;
+  height: 200px;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 2px solid rgb(49, 48, 48);
+}
+
+.numbers{
+  width: 500px;
+  margin-top: 40px;
+  margin-right: -40px;;
+  margin-left: auto;
+  align-items: center;
+}
+
+.number_btn{
+  margin-right: 20px;
+  width: 90px;
+  color: blu;
+  margin-bottom: 50px;
+}
